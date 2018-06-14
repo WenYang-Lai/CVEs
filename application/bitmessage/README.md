@@ -8,7 +8,7 @@ $ unzip PyBitmessage-0.6.2
 $ cd PyBitmessage-0.6.2/src && ./bitmessagemain.py
 ```
 
-#### environment setting (attacker size)
+#### environment setting (attacker side)
 ```
 - modify ./src/messagetypes/message.py
     - In function ```encode```
